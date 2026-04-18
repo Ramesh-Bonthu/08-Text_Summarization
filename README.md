@@ -23,3 +23,5 @@ Loader: UnstructuredURLLoader
 ├── .env                    # API keys (not pushed to GitHub)
 ├── TextSummarization.ipynb # Experimentation notebook
 
+
+Deployment link:- https://08-textsummarization-8h6hrgcvwykisvhbpoekvl.streamlit.app/
